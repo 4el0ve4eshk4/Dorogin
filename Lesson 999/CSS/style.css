@@ -1,0 +1,1415 @@
+.logo {
+position: absolute;
+height: 36px;
+width: 149px;
+left: 150px;
+top: 59px;
+}
+.about {
+position: absolute;
+height: 19px;
+width: 46px;
+left: 456px;
+top: 59px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;              
+}
+.features {
+height: 19px;
+width: 66px;
+left: 542px;
+top: 59px;
+position: absolute;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+}
+.pricing {
+position: absolute;
+height: 19px;
+width: 52px;
+left: 648px;
+top: 59px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+}
+.testimonials {
+position: absolute;
+height: 19px;
+width: 93px;
+left: 740px;
+top: 59px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+}
+.help {
+position: absolute;
+height: 19px;
+width: 34px;
+left: 873px;
+top: 59px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+}
+.signin {
+position: absolute;
+height: 19px;
+width: 53px;
+left: 1107px;
+top: 59px;
+}
+.signup {
+position: absolute;
+height: 45px;
+width: 150px;
+left: 1190px;
+top: 59px;
+border-radius: 50px;
+border-color: #F53855;
+background-color: white;
+color: #F53855;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+}
+
+
+h1 {
+position: absolute;
+width: 555px;
+height: 140px;
+left: 150px;
+top: 206.77px;      
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 70px;
+}
+.bold {
+font-weight: 800;    
+}
+.provide {
+position: absolute;
+width: 555px;
+height: 60px;
+left: 150px;
+top: 375px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.getst {
+position: absolute;
+width: 250px;
+height: 60px;
+color: white;
+border-color: #F53838;
+left: 150px;
+top: 476.77px;
+background: #F53838;
+border-radius: 10px;
+}
+.pic1 {
+position: absolute;
+width: 611px;
+height: 390px;
+left: 746px;
+top: 180px;    
+}
+
+
+.user {
+position: absolute;
+width: 55px;
+height: 55px;
+left: 256.5px;
+top: 737.05px;
+}
+.loc {
+position: absolute;
+width: 55px;
+height: 55px;
+left: 628.5px;
+top: 737.05px;
+}
+.serv {
+position: absolute;
+width: 55px;
+height: 55px;
+left: 1037px;
+top: 737.05px;
+}
+h2 {
+position: absolute;
+width: 49px;
+height: 30px;
+left: 333px;
+top: 732px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+}
+h3 {
+position: absolute;
+width: 49px;
+height: 30px;
+left: 720px;
+top: 728px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+}
+h4 {
+position: absolute;
+width: 49px;
+height: 30px;
+left: 1129px;
+top: 719px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+}
+.us {
+position: absolute;
+width: 53px;
+height: 30px;
+left: 333px;
+top: 767px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.lo {
+position: absolute;
+width: 91px;
+height: 30px;
+left: 720px;
+top: 767px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.se {
+position: absolute;
+width: 71px;
+height: 30px;
+left: 1129px;
+top: 767px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.shadow {
+position: absolute;
+width: 1068.84px;
+height: 189.22px;
+left: 185.58px;
+top: 717.35px;
+background: #0D1025;
+opacity: 0.06;
+filter: blur(114px);
+border-radius: 10px;
+}
+
+
+
+.pic2 {
+position: absolute;
+width: 508.12px;
+height: 414.71px;
+left: -300px;
+top: 960.38px;
+}
+h5 {
+position: absolute;
+width: 383.41px;
+height: 100px;
+left: 500px;
+top: 970px;
+font-weight: 800;
+font-family: Rubik;
+font-style: normal;
+font-size: 35px;
+line-height: 50px;
+}
+.ucan {
+position: absolute;
+width: 427.88px;
+height: 60px;
+left: 500px;
+top: 1134.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.power {
+position: absolute;
+width: 179px;
+height: 30px;
+left: 530px;
+top: 1214.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+}
+.int {
+position: absolute;
+width: 163px;
+height: 30px;
+left: 530px;
+top: 1259.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+}
+.VPN {
+position: absolute;
+width: 123px;
+height: 30px;
+left: 530px;
+top: 1304.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+}
+.Nos {
+position: absolute;
+width: 145px;
+height: 30px;
+left: 530px;
+top: 1349.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+}
+.si {
+height: 20px;
+width: 20px;
+left: 500px;
+top: 1234px;
+position: absolute;
+}
+.yes {
+height: 20px;
+width: 20px;
+left: 500px;
+top: 1275px;
+position: absolute;}
+.da {
+height: 20px;
+width: 20px;
+left: 500px;
+top: 1320px;
+position: absolute;}
+.tak {
+height: 20px;
+width: 20px;
+left: 500px;
+top: 1366px;
+position: absolute;
+}
+
+
+.ramka {
+position: absolute;
+width: 330px;
+height: 760px;
+left: 175px;
+top: 1776.55px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+h6 {
+position: absolute;
+width: 383.41px;
+height: 50px;
+left: 528.3px;
+top: 1586.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+}
+.package {
+position: absolute;
+width: 510px;
+height: 60px;
+left: 410px;
+top: 1700px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+}
+.Free1 {
+position: absolute;
+width: 144.9px;
+height: 165.37px;
+left: 267.55px;
+top: 1856.18px;
+}
+.frplan {
+position: absolute;
+width: 82px;
+height: 30px;
+left: 299px;
+top: 2051.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+}
+.unband1 {
+position: absolute;
+width: 136px;
+height: 30px;
+left: 289.13px;
+top: 2111.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Encon1 {
+position: absolute;
+width: 146px;
+height: 30px;
+left: 289.13px;
+top: 2151.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Notl1 {
+position: absolute;
+width: 95px;
+height: 30px;
+left: 289.13px;
+top: 2191.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Woad1 {
+position: absolute;
+width: 132px;
+height: 30px;
+left: 289.13px;
+top: 2231.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Freebut {
+position: absolute;
+width: 54px;
+height: 30px;
+left: 313px;
+top: 2391.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+}
+.vec1 {
+position: absolute;
+left: 270px;
+top: 2135px;
+}
+.vec2 {
+position: absolute;
+left: 270px;
+top: 2175px;
+}
+.vec3 {
+position: absolute;
+left: 270px;
+top: 2215px;
+}
+.vec4 {
+position: absolute;
+left: 270px;
+top: 2255px;
+}
+.select {
+position: absolute;
+width: 177.88px;
+height: 45px;
+left: 251.06px;
+top: 2460px;
+border-radius: 50px;
+}
+
+
+.ramka2 {
+position: absolute;
+width: 330px;
+height: 760px;
+left: 555px;
+top: 1776.55px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.Free2 {
+position: absolute;
+width: 144.9px;
+height: 165.37px;
+left: 647.55px;
+top: 1856.18px;
+}
+.stplan {
+position: absolute;
+width: 123px;
+height: 30px;
+left: 658.5px;
+top: 2051.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+}
+.unband2 {
+position: absolute;
+width: 136px;
+height: 30px;
+left: 669.27px;
+top: 2111.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Encon2 {
+position: absolute;
+width: 146px;
+height: 30px;
+left: 669.27px;
+top: 2151.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Notl2 {
+position: absolute;
+width: 100px;
+height: 30px;
+left: 669.27px;
+top: 2191.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Woad2 {
+position: absolute;
+width: 132px;
+height: 30px;
+left: 669.27px;
+top: 2231.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Conan1 {
+position: absolute;
+width: 116px;
+height: 30px;
+left: 669.27px;
+top: 2271.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Freebut2 {
+position: absolute;
+width: 92px;
+height: 30px;
+left: 674px;
+top: 2391.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+}
+.vec11 {
+position: absolute;
+left: 650px;
+top: 2135px;
+}
+.vec21 {
+position: absolute;
+left: 650px;
+top: 2175px;
+}
+.vec31 {
+position: absolute;
+left: 650px;
+top: 2215px;
+}
+.vec41 {
+position: absolute;
+left: 650px;
+top: 2255px;
+}   
+.vec51 {
+position: absolute;
+left: 650px;
+top: 2295px;
+}
+.select2 {
+position: absolute;
+width: 177.88px;
+height: 45px;
+left: 631.06px;
+top: 2460px;
+border-radius: 50px;
+}
+
+
+.ramka3 {
+position: absolute;
+width: 330px;
+height: 760px;
+left: 935px;
+top: 1776.55px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.Free3 {
+position: absolute;
+width: 144.9px;
+height: 165.37px;
+left: 1027.55px;
+top: 1856.18px;
+}
+.prplan {
+position: absolute;
+width: 121px;
+height: 30px;
+left: 1039.5px;
+top: 2051.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+}
+.unband3 {
+position: absolute;
+width: 136px;
+height: 30px;
+left: 1049.27px;
+top: 2111.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Encon3 {
+position: absolute;
+width: 146px;
+height: 30px;
+left: 1049.27px;
+top: 2151.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Notl3 {
+position: absolute;
+width: 100px;
+height: 30px;
+left: 1049.27px;
+top: 2191.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Woad3 {
+position: absolute;
+width: 132px;
+height: 30px;
+left: 1049.27px;
+top: 2231.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Conan2 {
+position: absolute;
+width: 116px;
+height: 30px;
+left: 1049.27px;
+top: 2271.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.GetNF {
+position: absolute;
+width: 116px;
+height: 30px;
+left: 1049.27px;
+top: 2311.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+}
+.Freebut3 {
+position: absolute;
+width: 104px;
+height: 30px;
+left: 1048px;
+top: 2391.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+}
+.vec111 {
+position: absolute;
+left: 1030px;
+top: 2135px
+}
+.vec211 {
+position: absolute;
+left: 1030px;
+top: 2175px;
+}
+.vec311 {
+position: absolute;
+left: 1030px;
+top: 2215px;
+}
+.vec411 {
+position: absolute;
+left: 1030px;
+top: 2255px;
+}
+.vec511 {
+position: absolute;
+left: 1030px;
+top: 2295px;
+}
+.vec611 {
+position: absolute;
+left: 1030px;
+top: 2335px;
+}
+.select3 {
+position: absolute;
+width: 177.88px;
+height: 45px;
+left: 1011.06px;
+top: 2460px;
+}
+
+
+h7 {
+position: absolute;
+width: 383.41px;
+height: 100px;
+left: 528.3px;
+top: 2686.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 50px;
+text-align: center;
+}
+.seeVPN {
+ position: absolute;
+width: 550px;
+height: 60px;
+left: 450px;
+top: 2806.55px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+}
+.World {
+position: absolute;
+width: 1055px;
+height: 535px;
+left: 190px;
+top: 3000px;
+}
+.netf {
+position: absolute;
+width: 200px;
+height: 112.5px;
+left: 145px;
+top: 3643.84px;
+}
+.redd {
+position: absolute;
+width: 156.25px;
+height: 50.62px;
+left: 404.38px;
+top: 3674.78px;
+}
+.amaz {
+position: absolute;
+width: 277.76px;
+height: 208.32px;
+left: 581.12px;
+top: 3595.93px;
+}
+.disc {
+position: absolute;
+width: 187.02px;
+height: 63.59px;
+left: 862.5px;
+top: 3670.09px;
+}
+.spot {
+position: absolute;
+width: 171.28px;
+height: 51.34px;
+left: 1109.36px;
+top: 3674.42px;
+}
+
+h8 {
+position: absolute;
+width: 447.81px;
+height: 100px;
+left: 496.1px;
+top: 3854.25px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 50px;
+text-align: center;
+}
+.stories {
+position: absolute;
+width: 550px;
+height: 60px;
+left: 442.5px;
+top: 3974.25px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+
+}
+.tochki {
+position: absolute;
+width: 135px;
+height: 15px;
+left: 150px;
+top: 4406.75px;
+}
+.left {
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1150px;
+top: 4384.25px;
+}
+.right {
+position: absolute;
+width: 150px;
+height: 150px;
+left: 1230px;
+top: 4353px;
+}
+
+
+.rama1 {
+position: absolute;
+width: 400px;
+height: 230px;
+left: 150px;
+top: 4100px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.star1 {
+position: absolute;
+left: 500px;
+top: 4145px;
+}
+.ozenka1 {
+position: absolute;
+width: 24px;
+height: 16px;
+left: 470px;
+top: 4130px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.Robert {
+position: absolute;
+width: 112px;
+height: 18px;
+left: 250px;
+top: 4115px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+}
+.urod {
+position: absolute;
+width: 50px;
+height: 50px;
+left: 180px;
+top: 4124.25px;
+}
+.lyax {
+position: absolute;
+width: 101px;
+height: 14px;
+left: 251px;
+top: 4148px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+}
+.wow {
+position: absolute;
+width: 340px;
+height: 100px;
+left: 180px;
+top: 4194.25px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+
+.rama2 {
+position: absolute;
+width: 400px;
+height: 230px;
+left: 600px;
+top: 4100px;
+border-radius: 10px;
+}
+.star2 {
+position: absolute;
+left: 950px;
+top: 4145px;
+}
+.Yessica {
+position: absolute;
+width: 142.02px;
+height: 18px;
+left: 700px;
+top: 4130.75px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.Kitay {
+position: absolute;
+width: 109.36px;
+height: 14px;
+left: 701px;
+top: 4153.75px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.topovo {
+position: absolute;
+width: 340px;
+height: 100px;
+left: 630px;
+top: 4182.25px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.baba {
+position: absolute;
+width: 50px;
+height: 50px;
+left: 630px;
+top: 4124.25px;
+}
+.ozenka2 {
+position: absolute;
+width: 24px;
+height: 16px;
+left: 920px;
+top: 4130px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+
+
+.rama3 {
+position: absolute;
+width: 400px;
+height: 230px;
+left: 1050px;
+top: 4094.25px;
+border-radius: 10px;
+}
+.star3 {
+position: absolute;
+left: 1400px;
+top: 4145px;
+}
+.Kim {
+position: absolute;
+width: 142.02px;
+height: 18px;
+left: 1150px;
+top: 4130.75px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.lovekpop {
+position: absolute;
+width: 127.34px;
+height: 14px;
+left: 1151px;
+top: 4153.75px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.ozenka3 {
+position: absolute;
+width: 24px;
+height: 16px;
+left: 1370px;
+top: 4130px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.stranno {
+position: absolute;
+width: 340px;
+height: 100px;
+left: 1080px;
+top: 4177.25px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.kitaez {
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1080px;
+top: 4124.25px;
+}
+
+
+h9 {
+position: absolute;
+width: 371.61px;
+height: 80px;
+left: 220px;
+top: 4567.78px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 45px;
+display: flex;
+align-items: center;
+}
+.lets {
+position: absolute;
+width: 410px;
+height: 16px;
+left: 220px;
+top: 4667.78px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+.subsc {
+position: absolute;
+width: 260px;
+height: 150px;
+left: 970px;
+top: 4596px;
+}
+.white {
+position: absolute;
+width: 1140px;
+height: 233px;
+left: 150px;
+top: 4509.28px;
+}
+.ugol {
+position: absolute;
+width: 1077.17px;
+height: 250px;
+left: 181.41px;
+top: 4525.78px;
+}
+
+
+.logo2 {
+position: absolute;
+width: 149px;
+height: 36.23px;
+left: 150px;
+top: 4805.78px;
+}
+.private {
+position: absolute;
+width: 340px;
+height: 61.57px;
+left: 150px;
+top: 4862.01px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+}
+.lasles {
+position: absolute;
+width: 132px;
+height: 30px;
+left: 150px;
+top: 5017.18px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+}
+h10 {
+position: absolute;
+width: 71px;
+height: 30px;
+left: 720px;
+top: 4808.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 650;
+font-size: 18px;
+line-height: 30px;
+}
+.download {
+position: absolute;
+width: 74px;
+height: 30px;
+left: 720px;
+top: 4858.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.pricing {
+position: absolute;
+width: 52px;
+height: 30px;
+left: 720px;
+top: 4898.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.locations {
+position: absolute;
+width: 73px;
+height: 30px;
+left: 720px;
+top: 4938.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.server {
+position: absolute;
+width: 49px;
+height: 30px;
+left: 720px;
+top: 4978.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.countries {
+position: absolute;
+width: 73px;
+height: 30px;
+left: 720px;
+top: 5018.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.blog {
+position: absolute;
+width: 34px;
+height: 30px;
+left: 720px;
+top: 5058.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+h11 {
+position: absolute;
+width: 66px;
+height: 30px;
+left: 920px;
+top: 4808.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 650;
+font-size: 18px;
+line-height: 30px;
+}
+.vpn {
+position: absolute;
+width: 91px;
+height: 30px;
+left: 920px;
+top: 4858.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.faq {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 920px;
+top: 4898.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.tutors {
+position: absolute;
+width: 64px;
+height: 30px;
+left: 920px;
+top: 4938.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.aboutus {
+position: absolute;
+width: 69px;
+height: 30px;
+left: 920px;
+top: 4978.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.privacy {
+position: absolute;
+width: 103px;
+height: 30px;
+left: 920px;
+top: 5018.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.terms {
+position: absolute;
+width: 123px;
+height: 30px;
+left: 920px;
+top: 5058.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+h12 {
+position: absolute;
+width: 102px;
+height: 30px;
+left: 1169px;
+top: 4808.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 650;
+font-size: 18px;
+line-height: 30px;
+}
+.affiliate {
+position: absolute;
+width: 56px;
+height: 30px;
+left: 1169px;
+top: 4858.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.partner {
+position: absolute;
+width: 121px;
+height: 30px;
+left: 1169px;
+top: 4898.89px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
